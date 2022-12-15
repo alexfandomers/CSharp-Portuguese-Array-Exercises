@@ -1,0 +1,15 @@
+C:\C#\PortuguesExercicios\bin\Debug\net6.0\PortuguesExercicios.exe
+C:\C#\PortuguesExercicios\bin\Debug\net6.0\PortuguesExercicios.deps.json
+C:\C#\PortuguesExercicios\bin\Debug\net6.0\PortuguesExercicios.runtimeconfig.json
+C:\C#\PortuguesExercicios\bin\Debug\net6.0\PortuguesExercicios.dll
+C:\C#\PortuguesExercicios\bin\Debug\net6.0\PortuguesExercicios.pdb
+C:\C#\PortuguesExercicios\obj\Debug\net6.0\PortuguesExercicios.csproj.AssemblyReference.cache
+C:\C#\PortuguesExercicios\obj\Debug\net6.0\PortuguesExercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\PortuguesExercicios\obj\Debug\net6.0\PortuguesExercicios.AssemblyInfoInputs.cache
+C:\C#\PortuguesExercicios\obj\Debug\net6.0\PortuguesExercicios.AssemblyInfo.cs
+C:\C#\PortuguesExercicios\obj\Debug\net6.0\PortuguesExercicios.csproj.CoreCompileInputs.cache
+C:\C#\PortuguesExercicios\obj\Debug\net6.0\PortuguesExercicios.dll
+C:\C#\PortuguesExercicios\obj\Debug\net6.0\refint\PortuguesExercicios.dll
+C:\C#\PortuguesExercicios\obj\Debug\net6.0\PortuguesExercicios.pdb
+C:\C#\PortuguesExercicios\obj\Debug\net6.0\PortuguesExercicios.genruntimeconfig.cache
+C:\C#\PortuguesExercicios\obj\Debug\net6.0\ref\PortuguesExercicios.dll
